@@ -1,0 +1,428 @@
+.left-side{
+    float: left;   
+    height: 650px ;
+    width: 15% ;
+    background: rgb(252, 252, 252); 
+    position: relative;
+}
+#left-1{
+    position: absolute;
+    height: 150px;
+    width: 99%;
+    border-bottom: 1px solid black;
+
+    top: 0px;
+    left: 0px;
+
+}
+#inside-left1-one{
+    position: absolute;
+    width: 160px;
+    height: 35px;
+    top: 5%;
+    left: 10%;
+    
+}
+#solid-bar{
+    position: absolute;
+    left: 5px;
+    top: 6px;
+}
+#youtube-logo-id{
+    position: absolute;
+    top: 0%;
+    left: 50px;
+    cursor: pointer;
+}
+#inside-left1-two{
+    position: absolute;
+    top: 30%;
+    left: 15px;
+    
+}
+#home{
+    position: absolute; 
+    top: 0px;
+    left: 10px;  
+}
+#home svg{
+    float: left;
+}
+#home span{
+    float: left;
+}
+#shorts{
+    position: absolute; 
+    top: 30px;
+    left: 10px;    
+}
+#shorts svg{
+    float: left;
+}
+#shorts span{
+    float: left;
+}
+#Subscription{
+    position: absolute; 
+    top: 60px;
+    left: 10px;     
+}
+#Subscription svg{
+    float: left;
+}
+#Subscription span{
+    float: left;
+}
+#left-2{
+    position: absolute;
+    height: 250px;
+    width: 99%;
+    border-bottom: 1px solid black;
+    top: 150px;
+    left: 0px;
+
+}
+#history-icon{
+    position: absolute;
+    top: 215px;
+    left: 25px;  
+}
+#playllist{
+    position: absolute;
+    top: 60px;
+    left: 25px;     
+}
+#yourvideos{
+    position: absolute;
+    top: 100px;
+    left: 25px;    
+}
+#watch-later{
+    position: absolute;
+    top: 140px;
+    left: 25px;     
+}
+#liked-vidoes{
+    position: absolute;
+    top: 20px;
+    left: 25px;     
+}
+#your-course{
+    position: absolute;
+    top: 180px;
+    left: 25px;     
+}
+#left-3{
+    position: absolute;
+    height: 249px;
+    width: 99%;
+    border-bottom: 1px solid black;
+    top: 400px;
+    left: 0px;
+}
+#cnn{
+    position: absolute;
+    left: 20px;
+}
+#firstpost{
+    position: absolute;
+    left: 20px;
+    top: 100px;    
+}
+#moneycontrol{
+    position: absolute;
+    left: 20px;
+    top: 144px;      
+}
+#agnikul{
+    position: absolute;
+    left: 20px;
+    top: 188px;    
+}
+.top-header{
+    float: top;   
+    height: 100px ;
+    width: 85% ;
+    background: rgb(53, 250, 3); 
+    position: relative;
+    left: 15%;
+
+}
+#upper-top-header{
+    background: rgb(255, 255, 255);
+    float: top;
+    height: 50px;
+    position: relative;   
+    
+}
+#search-bar{
+    width: 350px;
+    height: 20px;
+    border: 2px solid black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 10px;
+    color: black;
+    padding: 5px;
+    cursor: text;
+
+}
+#lens{
+    border: 2px solid black;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin-left: 663px;
+    margin-top: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgba(208, 209, 207, 0.849);
+}
+#microphone{
+
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    position: absolute;
+    margin-left: 715px;
+    margin-top: 10px;  
+    padding: 0px;
+
+}
+#video-uploader{
+    position: absolute;
+    margin-left: 87%;
+    margin-top: 14px; 
+}
+#profile-picture{
+    position: absolute;
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 95%;
+    top: 2px;
+    padding: 8px;
+    background-color: black;
+    cursor: pointer;
+}
+#bell-button{
+    position: absolute;
+    margin-left: 91%;
+    top: 13px;
+}
+#lower-top-header{
+    background: rgb(255, 255, 255);
+    height: 50px;
+    position: relative;
+    top: 50;
+}
+#lower-header1{
+    position: absolute;
+    height: 20px;
+    width: 50px;
+    margin-left: 10px;
+    top: 12px;
+    padding: 1px;
+
+}
+#lower-header2{
+    position: absolute;
+    height: 20px;
+    width: 160px;
+    margin-left: 70px;
+    top: 12px;
+    padding: 1px;
+
+
+}
+#lower-header3{
+    position: absolute;
+    height: 20px;
+    width: 50px;
+    margin-left: 250px;
+    top: 12px;
+    padding: 1px;
+
+
+}
+#lower-header4{
+    position: absolute;
+    height: 20px;
+    width: 50px;
+    margin-left: 310px;
+    top: 12px;
+    padding: 1px;
+
+}
+#lower-header5{
+    position: absolute;
+    height: 20px;
+    width: 50px;
+    margin-left: 370px;
+    top: 12px;
+    padding: 1px;
+
+}
+#lower-header6{
+    position: absolute;
+    height: 20px;
+    width: 50px;
+    margin-left: 430px;
+    top: 12px;
+    padding: 1px;
+
+}
+#lower-header7{
+    position: absolute;
+    height: 20px;
+    width: 100px;
+    margin-left: 490px;
+    top: 12px;
+    padding: 1px;
+
+}
+#lower-header8{
+    position: absolute;
+    height: 20px;
+    width: 80px;
+    margin-left: 600px;
+    top: 12px;
+    padding: 1px;
+
+}
+#lower-header9{
+    position: absolute;
+    height: 20px;
+    width: 70px;
+    margin-left: 700px;
+    top: 12px;
+    padding: 1px;
+
+}
+#lower-header10{
+    position: absolute;
+    height: 20px;
+    width: 70px;
+    margin-left: 780px;
+    top: 12px;
+    padding: 1px;
+
+}
+#lower-header11{
+    position: absolute;
+    height: 20px;
+    width: 70px;
+    margin-left: 860px;
+    top: 12px;
+    padding: 1px;
+   
+}
+#lower-header12{
+    position: absolute;
+    height: 20px;
+    width: 170px;
+    margin-left: 940px; 
+    border-radius: 5px;
+    top: 12px;
+    padding: 1px;
+    
+}
+
+.content{
+    background: rgb(250, 248, 248);
+    width: 85%;
+    height: 825px;
+    left: 15%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    background: rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 350px;
+    height: 240px;
+    margin: 15px;
+}
+#box1{
+
+}
+#box2{
+  
+}
+#box3{
+  
+}
+#box4{
+  
+}
+#box5{
+
+}
+#box6{
+  
+}
+
+
+
+body{
+    margin: 0px;
+}
+button{
+    background-color: white;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(216, 208, 208);
+}
+#lower-top-header button{
+    background-color: rgb(231, 235, 231);
+    border-radius: 5px;
+    border: none;   
+}
+#lower-top-header button:hover{
+    background-color: rgb(175, 173, 173);
+}
+#left-2 button{
+    border: none;
+    border-radius: 10px;
+}
+#left-2 button svg{
+    float: left;
+}
+#left-2 button span{
+    float: left;
+}
+#left-3 button{
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;    
+}
+#left-3 button img{
+    float: left;
+    border-radius: 50%;
+    height: 24px;
+    width: 24px;
+}
+#left-3 button span{
+    float: left;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+#upper-top-header button{
+    border: none;
+    border-radius: 50%;
+}
+button #mic:hover{
+    background-color: black;
+}
+#solid-bar button{
+    border-radius: 50%;
+    border: none;
+}
+#lens:hover{
+    background-color: rgb(240, 241, 238);
+}
